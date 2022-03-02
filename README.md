@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @millerxx56
+- 👋 Hi, I’m @millerxx56 = Degenerate
 - 👀 I’m interested in ...DEFI, Blockchaing development, cybersecurity & network administration 
 -
 - 🌱 I’m currently learning ...JavaScript & Solidity
